@@ -25,13 +25,13 @@ from reportlab.platypus import (Image, KeepTogether, PageBreak, Paragraph, Prefo
 # ----------------------------------------------------------------------------
 # PREENCHER ANTES DE ENTREGAR (ordem alfabética)
 EQUIPE = [
-    ("Nome completo do integrante 1", "RM 000000"),
-    ("Nome completo do integrante 2", "RM 000000"),
-    ("Nome completo do integrante 3", "RM 000000"),
-    ("Nome completo do integrante 4", "RM 000000"),
-    ("Nome completo do integrante 5", "RM 000000"),
+    ("Carlos Santiago Clementino", "RM575749"),
+    ("Eduarda da Silva Brito", "RM567347"),
+    ("Gustavo Castilho Gonçalves", "RM566970"),
+    ("Gustavo Moretim Canzi", "RM567683"),
+    ("Lucca Ghiraldi Urso", "RM566739"),
 ]
-NOME_EQUIPE = "Nome da equipe"
+NOME_EQUIPE = "Vagalume"
 LINK_REPO = "https://github.com/Gucastilho/Dynamic-programming-GS/tree/main/dynamic-programming"
 # ----------------------------------------------------------------------------
 

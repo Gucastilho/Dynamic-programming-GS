@@ -18,14 +18,13 @@ Repositório da disciplina **Dynamic Programming** (Engenharia de Software, 2º 
 
 ## Equipe
 
-<!-- TODO: preencher em ordem alfabética -->
 | Integrante | RM |
 |---|---|
-| Nome completo do integrante 1 | RM 000000 |
-| Nome completo do integrante 2 | RM 000000 |
-| Nome completo do integrante 3 | RM 000000 |
-| Nome completo do integrante 4 | RM 000000 |
-| Nome completo do integrante 5 | RM 000000 |
+| Carlos Santiago Clementino | RM575749 |
+| Eduarda da Silva Brito | RM567347 |
+| Gustavo Castilho Gonçalves | RM566970 |
+| Gustavo Moretim Canzi | RM567683 |
+| Lucca Ghiraldi Urso | RM566739 |
 
 ## Estrutura
 
