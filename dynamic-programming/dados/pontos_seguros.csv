@@ -1,0 +1,11 @@
+id,nome,tipo,no,abre,fecha
+PS01,Farmácia 24h Paulista (simulada),comercio,P3,0,24
+PS02,Base Comunitária da PM (simulada),orgao_publico,P1,0,24
+PS03,Padaria São Carlos (simulada),comercio,C2,6,22
+PS04,Posto de combustível Augusta (simulado),comercio,C1,0,24
+PS05,Mercado Cincinato (simulado),comercio,B3,7,23
+PS06,Hotel Pamplona (simulado),comercio,S4,0,24
+PS07,Restaurante Campinas (simulado),comercio,S3,11,1
+PS08,Academia Joaquim (simulada),comercio,C5,6,23
+PS09,UBS Bela Vista (simulada),orgao_publico,B5,7,19
+PS10,Lanchonete Jaú (simulada),comercio,J2,18,4

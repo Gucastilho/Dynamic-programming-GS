@@ -1,0 +1,41 @@
+origem,destino,rua,comprimento_m,ocorrencias,iluminacao,movimento,reports,acidentes
+P1,P2,Av. Paulista,230,7,0.95,0.90,1,2
+P2,P3,Av. Paulista,180,6,0.95,0.90,1,2
+P3,P4,Av. Paulista,200,6,0.95,0.85,1,1
+P4,P5,Av. Paulista,190,5,0.95,0.85,0,2
+C1,C2,R. São Carlos do Pinhal,230,4,0.60,0.45,2,1
+C2,C3,R. São Carlos do Pinhal,180,4,0.55,0.40,2,0
+C3,C4,R. São Carlos do Pinhal,200,5,0.60,0.35,3,1
+C4,C5,R. São Carlos do Pinhal,190,3,0.65,0.40,1,0
+B1,B2,R. Cincinato Braga,230,5,0.35,0.20,5,1
+B2,B3,R. Cincinato Braga,180,5,0.30,0.15,6,0
+B3,B4,R. Cincinato Braga,200,6,0.25,0.10,8,1
+B4,B5,R. Cincinato Braga,190,4,0.35,0.15,5,0
+S1,S2,Al. Santos,230,3,0.80,0.60,1,1
+S2,S3,Al. Santos,180,3,0.80,0.55,0,0
+S3,S4,Al. Santos,200,2,0.85,0.60,1,1
+S4,S5,Al. Santos,190,3,0.80,0.55,1,0
+J1,J2,Al. Jaú,230,2,0.70,0.45,1,0
+J2,J3,Al. Jaú,180,2,0.65,0.40,1,0
+J3,J4,Al. Jaú,200,3,0.70,0.40,2,1
+J4,J5,Al. Jaú,190,2,0.70,0.45,1,0
+B1,C1,R. Augusta,100,5,0.80,0.80,2,2
+C1,P1,R. Augusta,140,6,0.85,0.85,2,2
+P1,S1,R. Augusta,120,6,0.85,0.85,1,2
+S1,J1,R. Augusta,130,5,0.80,0.80,2,1
+B2,C2,Al. Casa Branca,100,3,0.50,0.25,3,0
+C2,P2,Al. Casa Branca,140,3,0.55,0.30,2,0
+P2,S2,Al. Casa Branca,120,2,0.70,0.40,1,0
+S2,J2,Al. Casa Branca,130,2,0.60,0.35,1,0
+B3,C3,Al. Campinas,100,4,0.45,0.20,4,0
+C3,P3,Al. Campinas,140,3,0.60,0.35,2,1
+P3,S3,Al. Campinas,120,2,0.70,0.45,1,0
+S3,J3,Al. Campinas,130,2,0.65,0.40,1,0
+B4,C4,R. Pamplona,100,4,0.50,0.30,3,1
+C4,P4,R. Pamplona,140,4,0.65,0.45,2,1
+P4,S4,R. Pamplona,120,3,0.75,0.50,1,1
+S4,J4,R. Pamplona,130,3,0.70,0.45,1,1
+B5,C5,Al. Joaquim Eugênio de Lima,100,2,0.75,0.50,1,1
+C5,P5,Al. Joaquim Eugênio de Lima,140,2,0.75,0.50,1,1
+P5,S5,Al. Joaquim Eugênio de Lima,120,2,0.80,0.50,1,0
+S5,J5,Al. Joaquim Eugênio de Lima,130,2,0.75,0.50,1,0

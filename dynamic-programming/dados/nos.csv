@@ -1,0 +1,26 @@
+id,nome,x_m,y_m
+J1,Al. Jaú × R. Augusta,0,490
+J2,Al. Jaú × Al. Casa Branca,230,490
+J3,Al. Jaú × Al. Campinas,410,490
+J4,Al. Jaú × R. Pamplona,610,490
+J5,Al. Jaú × Al. Joaquim Eugênio de Lima,800,490
+S1,Al. Santos × R. Augusta,0,360
+S2,Al. Santos × Al. Casa Branca,230,360
+S3,Al. Santos × Al. Campinas,410,360
+S4,Al. Santos × R. Pamplona,610,360
+S5,Al. Santos × Al. Joaquim Eugênio de Lima,800,360
+P1,Av. Paulista × R. Augusta,0,240
+P2,Av. Paulista × Al. Casa Branca,230,240
+P3,Av. Paulista × Al. Campinas,410,240
+P4,Av. Paulista × R. Pamplona,610,240
+P5,Av. Paulista × Al. Joaquim Eugênio de Lima,800,240
+C1,R. São Carlos do Pinhal × R. Augusta,0,100
+C2,R. São Carlos do Pinhal × Al. Casa Branca,230,100
+C3,R. São Carlos do Pinhal × Al. Campinas,410,100
+C4,R. São Carlos do Pinhal × R. Pamplona,610,100
+C5,R. São Carlos do Pinhal × Al. Joaquim Eugênio de Lima,800,100
+B1,R. Cincinato Braga × R. Augusta,0,0
+B2,R. Cincinato Braga × Al. Casa Branca,230,0
+B3,R. Cincinato Braga × Al. Campinas,410,0
+B4,R. Cincinato Braga × R. Pamplona,610,0
+B5,R. Cincinato Braga × Al. Joaquim Eugênio de Lima,800,0
