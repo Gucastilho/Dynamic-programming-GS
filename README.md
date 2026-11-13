@@ -35,7 +35,7 @@ dynamic-programming/            entrega da disciplina (avaliada no repositório)
 ├── test_rota_dp.py             13 testes (unittest)
 ├── dados/                      nós, trechos e Pontos Seguros (CSV)
 └── README.md                   como executar
-relatorio-dp/                   relatório em PDF (até 4 páginas) e o script que o gera
+relatorio-dp/                   relatório em PDF (até 4 páginas)
 prompts.md                      registro do uso de IA como copiloto
 ```
 
