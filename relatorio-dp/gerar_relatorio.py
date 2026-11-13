@@ -187,8 +187,8 @@ def montar():
                 "<b>subproblemas sobrepostos</b> (a mesma esquina é alcançada por muitos caminhos com a "
                 "mesma distância). Testar todos os caminhos é exponencial, como mostra a seção 3."),
               P("Integração com as outras disciplinas", sub),
-              B("<b>Data Science:</b> as ocorrências por trecho e os pesos por horário vêm da análise "
-                "descritiva da base da SSP-SP."),
+              B("<b>Data Science:</b> na versão integrada, as ocorrências por trecho e os pesos por horário "
+                "virão da análise descritiva da base real da SSP-SP; aqui são simulados no mesmo formato."),
               B("<b>Database Design:</b> os nós, trechos, reports, ocorrências e Pontos Seguros são as "
                 "entidades <font face='Consolas'>TRECHO</font>, <font face='Consolas'>REPORT</font>, "
                 "<font face='Consolas'>OCORRENCIA_OFICIAL</font> e "
@@ -209,7 +209,8 @@ def montar():
                 "(<font face='Consolas'>grafo.adj[u]</font> = trechos que saem de <i>u</i>) ocupa "
                 "O(V + E) e percorre só os vizinhos reais. Uma matriz de adjacência gastaria O(V²) com uma "
                 "malha viária esparsa, em que cada esquina tem 2 a 4 vizinhos. Cada aresta guarda dois pesos:"),
-              B("<b>distância</b>, discretizada em passos de 10 m (arredondada para cima, mínimo 1 passo);"),
+              B("<b>distância</b>, discretizada em passos de 10 m (arredondada para cima, mínimo 1 passo). "
+                "A garantia de rota ótima vale para essa distância discretizada;"),
               B("<b>risco = comprimento × densidade de risco</b>, isto é, a exposição. Andar 300 m numa "
                 "rua escura pesa mais que andar 30 m nela."),
               P("A densidade de risco (por metro) combina os fatores do motor de risco do Vagalume. "
@@ -273,7 +274,9 @@ def montar():
                         "1000 m, a força bruta testa 1,5 milhão de caminhos e leva cerca de 2,5 s na grade "
                         "7 × 7. A DP resolve a mesma grade em cerca de 4 ms e chega à grade 10 × 10 em "
                         "cerca de 10 ms. <b>Extensão:</b> o Ponto Seguro mais próximo usa Bellman-Ford, "
-                        "também uma DP sobre o número de trechos, O(V&nbsp;·&nbsp;E), e nunca sugere um ponto fechado.",
+                        "também uma DP sobre o número de trechos, O(V&nbsp;·&nbsp;E). Foi escolhido por ser DP; "
+                        "com um grafo deste tamanho, o custo extra frente ao Dijkstra é desprezível. "
+                        "Um ponto fechado nunca é sugerido.",
                         ParagraphStyle("lado", parent=corpo, fontSize=8.8, leading=11.8))]],
                     colWidths=[8.7 * cm, W - 8.7 * cm],
                     style=[("VALIGN", (0, 0), (-1, -1), "MIDDLE"), ("LEFTPADDING", (0, 0), (-1, -1), 0)])]
